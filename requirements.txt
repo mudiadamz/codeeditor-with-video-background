@@ -1,0 +1,4 @@
+PyQt6~=6.7.0
+pyinstaller~=6.6.0
+requests~=2.31.0
+chardet~=5.2.0
